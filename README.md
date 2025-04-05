@@ -2,4 +2,4 @@
 
 Стек: HTML, SCSS, TS
 
-## [Сайт-демонстрация] https://docesforg.github.io/ono-tebe-nado/
+## [Сайт-демонстрация](https://docesforg.github.io/ono-tebe-nado/)
