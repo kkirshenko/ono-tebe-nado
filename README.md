@@ -2,4 +2,4 @@
 
 Стек: HTML, SCSS, TS
 
-## [Сайт-демонстрация](https://kkirshenko.github.io/ono-tebe-nado/)
+## [Сайт-демонстрация](https://doces.github.io/ono-tebe-nado/)
