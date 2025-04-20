@@ -52,4 +52,4 @@ EventEmitter выступает в роли Представителя (Presente
 - src/utils/utils.ts — файл с утилитами
 
 
-## [Сайт-демонстрация[https://docesforg.github.io/ono-tebe-nado/]]
+## [Сайт-демонстрация](https://docesforg.github.io/ono-tebe-nado/)
