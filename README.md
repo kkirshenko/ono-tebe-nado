@@ -19,9 +19,10 @@ EventEmitter выступает в роли Представителя (Presente
     TypeScript, HTML, SCSS, JavaScript.
 
 ### Структура проекта:
-- src/ — исходные файлы проекта
-- src/components/ — папка с JS компонентами
-- src/components/base/ — папка с базовым кодом
+- src/ — исходные файлы проекта;
+- src/components/ — папка слоя приложения;
+- src/components/base/ — папка с базовым кодом;
+- src/components/common — папка с общим слоем.
 
 ### Важные файлы:
 - src/pages/index.html — HTML-файл главной страницы
